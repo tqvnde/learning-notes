@@ -7,5 +7,7 @@
 * Template
 * Functional
 * std
+* rvalue reference: move sematic and perfect forwarding
+* idoms: pimpl, crtp
 * Concurrent
 * Socket Programming
