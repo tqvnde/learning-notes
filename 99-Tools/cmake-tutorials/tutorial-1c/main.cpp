@@ -1,5 +1,5 @@
 #include <iostream>
-#include "hello.hpp"
+#include "say-hello/src/say-hello/hello.hpp"
 
 int main() {
   hello::say_hello();
