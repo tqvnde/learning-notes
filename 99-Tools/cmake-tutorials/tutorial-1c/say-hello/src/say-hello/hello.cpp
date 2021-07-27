@@ -3,5 +3,5 @@
 
 void hello::say_hello() {
   std::cout << "Hello, world!\n";
-  std::cout << "Tutorial 1c - add_subdirectories!\n";  
+  std::cout << "NEW Tutorial 1c - add_subdirectories!\n";  
 }
