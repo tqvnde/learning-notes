@@ -44,8 +44,6 @@ while(my_value LESS 50)
   math(EXPR my_value "${my_value} + 1")
 endwhile()
 
-
-
 foreach (item IN ITEMS foo bar baz qux)
   message(STATUS "Item is: ${item}")
 endforeach()
