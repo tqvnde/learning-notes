@@ -6,4 +6,5 @@
 * tutorial-2b: Control Flow: if, while, math
 * tutorial-2c: Function in cmake
 * tutorial-2d: advanced function
+* tutorial-2e: directories
 
