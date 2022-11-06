@@ -15,8 +15,8 @@
   * II-2-4 Database and SQL
 
 ## II-3 Data Structures and Algorithms
-  * implementation with Java
-  * implementation wiht C++
+  * II-3-1 Implementation with Java
+  * II-3-2 Implementation wiht C++
 ## II-4 Computer Systems
   * II-4-1 Computer Organization 
   * II-4-2 System Programming
