@@ -2,20 +2,34 @@
 
 ## Resources
 ### Videos Courses:
-    * coursera: Control of Mobile Ronots
+    * [coursera Control of Mobile Robots](https://www.youtube.com/watch?v=aSwCMK96NOw&list=PLp8ijpvp8iCvFDYdcXqqYU5Ibl_aOqwjr&index=1)
+    * [Matlab Techtalks](https://www.mathworks.com/videos/tech-talks.html)
     * Control Bootcamp
-    * Matlab Techtalks
     * ETH lecture courses but too LONG
 ### Books:
-    * Feedback Control of Dynamic Systems
+    * Franklin: Feedback Control of Dynamic Systems
+    * Aström & Murray: Feedback Systems
 ### Case Studies:
-    * Inverted Pendulum
-    * Magnetic Ball
-    * mobile robots
-    * car like vehicles
-    * quadrotor
+    * Details:
+        * Inverted Pendulum (State feadback, LQR, Swingup)
+        * Cruise control (PID Astrom book and code)
+        * Mobile robots (coursera)
+    * Examples in Simulink 3D Animation
+        * Inverted Pendulum in 3D
+        * Magnetic Levitation
+        * Car-like Vehicles
+        * Quadcopter
 
 ### Topics
+    * Linearization
+    * Controlability
+    * Obserability
+    * Minimum Phase
+    * Feedforward
+    * Gain Scheduling
+    * Bode Plot
     * PID
-    * Optimal Control
+    * State Feedback
+    * Optimal Control (LQR)
     * MPC
+    * Robust Control H_inf
