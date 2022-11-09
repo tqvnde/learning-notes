@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="u7zgBwtIAptATGMnYBnp" name="Page-1">
-        <mxGraphModel dx="1320" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Engineering Foundation" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-120;fontColor=#009900;fontFamily=Lucida Console;fontSize=18;fontStyle=1;strokeColor=#006600;strokeWidth=5;fillColor=#E6FFCC;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="20" width="371" height="193" as="geometry"/>
+                <mxCell id="2" value="Engineering Foundation" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-150;fontColor=#009900;fontFamily=Lucida Console;fontSize=18;fontStyle=1;strokeColor=#006600;strokeWidth=5;fillColor=#E6FFCC;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="20" width="371" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;fontColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;" parent="1" source="3" target="11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -38,7 +38,7 @@
                     <mxGeometry x="780" y="202" width="166" height="94" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="Physics I" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
-                    <mxGeometry x="84" y="78" width="87" height="40" as="geometry"/>
+                    <mxGeometry x="84" y="73" width="87" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="Intermediate Java" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="823" y="319" width="120" height="60" as="geometry"/>
@@ -119,19 +119,19 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="40" value="Physics II" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
-                    <mxGeometry x="84" y="119" width="87" height="40" as="geometry"/>
+                    <mxGeometry x="84" y="114" width="87" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" value="Physics III" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
-                    <mxGeometry x="84" y="161" width="87" height="40" as="geometry"/>
+                    <mxGeometry x="84" y="156" width="87" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="Linear Algebra" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
-                    <mxGeometry x="221" y="78" width="131" height="40" as="geometry"/>
+                    <mxGeometry x="221" y="73" width="131" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="Probability &amp;amp; Statistic" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
-                    <mxGeometry x="221" y="119" width="131" height="40" as="geometry"/>
+                    <mxGeometry x="221" y="114" width="131" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="Matlab" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
-                    <mxGeometry x="265" y="161" width="87" height="40" as="geometry"/>
+                <mxCell id="44" value="Matlab&lt;br&gt;Symbolic/Optimization" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#006600;strokeColor=#00FF00;fontFamily=Lucida Console;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="156" width="162" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="&lt;font color=&quot;#ff0000&quot;&gt;Software for &lt;br&gt;Autonomous Vehicles&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=18;fontColor=#006600;strokeColor=#FF3333;strokeWidth=5;fillColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="290" y="531" width="500" height="260" as="geometry"/>
@@ -140,7 +140,7 @@
                     <mxGeometry x="350" y="362" width="130" height="78" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="Control Systems" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;fontColor=#006600;strokeColor=#006600;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-                    <mxGeometry x="187" y="246" width="130" height="85" as="geometry"/>
+                    <mxGeometry x="187" y="245" width="130" height="85" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Engineerng Mechanics&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;fontColor=#006600;strokeColor=#006600;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="350" y="246" width="130" height="85" as="geometry"/>
