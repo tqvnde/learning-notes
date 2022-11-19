@@ -1,5 +1,5 @@
 # Learning Notes
-
+☑ Done - ☐ Not done
 ## I Engineering
 ### I-1 Foundation
   * Physics I, Physics II, Physics III
