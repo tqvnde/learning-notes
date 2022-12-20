@@ -5,6 +5,8 @@
 * [coursera Control of Mobile Robots](https://www.youtube.com/watch?v=aSwCMK96NOw&list=PLp8ijpvp8iCvFDYdcXqqYU5Ibl_aOqwjr&index=1)
 * [Matlab Techtalks](https://www.mathworks.com/videos/tech-talks.html)
 * [Control Bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+* [TI Control Seminar](https://training.ti.com/control-theory-seminar-0)
+* [TI Motor Control](https://training.ti.com/teaching-old-motors-new-tricks-c2000)
 * [ETH Regelsysteme H2012](https://www.youtube.com/watch?v=nSSItBxzl2o&list=PLh1iJmY90cBA6ANNR0Tqt0F_T8DYX2SRd) --> LONG lecture series
 ### Books:
 * Franklin: Feedback Control of Dynamic Systems

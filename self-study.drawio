@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="u7zgBwtIAptATGMnYBnp" name="Page-1">
-        <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="974" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -159,6 +159,9 @@
                 </mxCell>
                 <mxCell id="54" value="&lt;font color=&quot;#ff0000&quot;&gt;AI for Robotics&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=18;fontColor=#006600;strokeColor=#FF0000;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="813" y="630" width="140" height="81" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="ML" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000CC;strokeWidth=2;fontColor=#0000CC;" vertex="1" parent="1">
+                    <mxGeometry x="592" y="440" width="158" height="87" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

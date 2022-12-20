@@ -4,6 +4,7 @@
 * [The Engineering Mindset (English)](https://www.youtube.com/c/Theengineeringmindset/playlists)
 * [Ingenieursmendalität (Deutsch)](https://www.youtube.com/channel/UCSdhBIIpDZ_5K585v5yz34Q/featured) 
 * [E-Technik (Deutsch)](https://www.youtube.com/playlist?list=PLxbwjcEKMz_jqoHIzwqJd7WllsVbQODyc)
+* [Yaskawa Training](https://youtu.be/qpKybaLURy0)
 
 ## Topics
 ### Vehicles

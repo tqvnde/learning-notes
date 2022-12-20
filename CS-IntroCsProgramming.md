@@ -1,13 +1,6 @@
-# C++
+# Intro CS
 
-## Resources
-* Udemy: [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/)
-
-## Topics:
-* Template
-* Functional
-* std
-* rvalue reference: move sematic and perfect forwarding
-* idoms: pimpl, crtp
-* Concurrent async, lauchh, promise, furture
-* Socket Programming
+## resources:
+* MIT 6.00SC (or 6.001-6.002) (Python)
+* Princeton: Introduction to CS (Java)
+* intersity: Algorithmen (Deutsch)

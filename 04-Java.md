@@ -5,11 +5,10 @@
 * [youtube Grundkurs Java](https://www.youtube.com/watch?v=HtHIcrgJuwQ&list=RDCMUCPaUjOPs59pdlkSRDdJ6ZDQ&index=9)
 * [Java nang cao](https://www.youtube.com/playlist?list=PLMPBVRu4TjAxXA5KuqKFU7gwGiucyif_r)
 * [zcode](https://zetcode.com/all/#java)
-* [Hoclzer Java](https://globalsoftwaresupport.teachable.com/courses): First course, Java A-J
+* [Hoclzer Java](https://globalsoftwaresupport.teachable.com/courses): First course, Java A-J, SOLID and Design Patterns, Multithreading
 * [yet another insignificant programming notes](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
-* Book: Big Java
 * [GameTutorial](https://gametutorial.bozjatorium.com/tutorials)
-
+* Books: Head First Java, Cay Hostmann Java
 ## Topics
 * Design Patterns
 * Software Designs

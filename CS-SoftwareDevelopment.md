@@ -2,7 +2,9 @@
 ## resources:
 * udacity: Software Development Process
 * edx: TUMx Software Engineering Essentials
-* coursera: Software Design and Architectures
+* [coursera: Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+* [CSE331 Software Design and Implementation](https://courses.cs.washington.edu/courses/cse331/11sp/)
+* [CSE332 Data Abstraction  Parallel Programing Model](https://courses.cs.washington.edu/courses/cse332/16wi/)
 * Udemy: SOLID and Design Patterns
 * Udemy: Object Oriented Analysis, Design & Programming with UML
 * Head First
@@ -49,7 +51,7 @@
 * P4L5 Software Refactoring
 
 ## edx TUMx Software Essentials
-### Section 1 Project Organization and Management
+### Section 1 Project Organization and Management (☑☑☑☑ 1:02:23)
 * Introduction
 * Project Organization
 * Communication
@@ -59,21 +61,21 @@
 * UML Activity Diagram
 * Summary
 
-### Section 2 Software Configuration Management section
+### Section 2 Software Configuration Management (☑☑☑☑ 0:42:19)
 * Software Configuration Management 1
 * Software Configuration Management 2
 * Version Control System
 * Distributed Version Control
 * Summary
 
-### Section 3 Object Oriented Programming section
+### Section 3 Object Oriented Programming (☑☑☑☑ 0:48:47.40)
 * Basics of Object Oriented Programming 1
 * Basics of Object Oriented Programming 2
 * Debugging
 * User Interface Design
 * Summary
 
-### Section 4 Requirements Analysis section
+### Section 4 Requirements Analysis (☑☑☑☑ 0:39:31.30)
 * Requirements Elicitation
 * Usability
 * Analysis
@@ -81,20 +83,20 @@
 * UML Class Diagram - Analysis Object Model
 * Summary
 
-### Section 5 System Design section
+### Section 5 System Design (☑☑☑☑ 0:43:45.47)
 * System Design
 * Patterns
 * Architectural Patterns
 * UML Component and Deployment Diagram
 * Summary
 
-### Section 6 Object Design section
+### Section 6 Object Design (☐☐☐☐ 0:41:05.83)
 * Object Design
 * Design Patterns
 * UML Class and Communication Diagram
 * Summary
 
-### Section 7 Testing section
+### Section 7 Testing
 * Testing
 * Exception Handling
 * Unit Testing
@@ -111,3 +113,12 @@
 * Introduction
 * Final Assessment
 * Exit Survey
+
+./S1 Project Organization and Management (7) file(s): 1:02:23.043000
+./S2 Software Configuration Management (5) file(s): 0:42:19.864000
+./S3 Object Oriented Programming (4) file(s): 0:48:47.404000
+./S4 Requirements Analysis (5) file(s): 0:39:31.309000
+./S5 System Design (5) file(s): 0:43:45.474000
+./S6 Object Design (4) file(s): 0:41:05.836000
+./S7 Testing (5) file(s): 0:45:52.131000
+./S8 Build and Release Management (4) file(s): 0:52:12.994000
