@@ -19,3 +19,6 @@ SELECT occurred_at, account_id, channel
 FROM web_events
 LIMIT 10
   
+youtube:
+* Mosh: https://www.youtube.com/watch?v=7S_tz1z_5bA&t=8502s
+* Bro: https://www.youtube.com/watch?v=5OdVJbNCSso&t=7483s

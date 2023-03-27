@@ -1,26 +1,26 @@
 # Software Development
 ## resources:
-* udacity: Software Development Process
-* edx: TUMx Software Engineering Essentials
+* udacity: Software Development Process (9 Hours)
+* edx: TUMx Software Engineering Essentials (7 Hours)
 * [coursera: Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
 * [CSE331 Software Design and Implementation](https://courses.cs.washington.edu/courses/cse331/11sp/)
-* [CSE332 Data Abstraction  Parallel Programing Model](https://courses.cs.washington.edu/courses/cse332/16wi/)
 * Udemy: SOLID and Design Patterns
 * Udemy: Object Oriented Analysis, Design & Programming with UML
 * Head First
-  * Java
   * OOAD 
   * Design Patterns (Java and C++)
   * Software Development
 * Cay Hostmann: OOP & Design Patterns with Java
 * UML tutorial
 * Design Patterns tutorial
+
 ## Topics:
 * OOAD
 * UML
 * Design Patterns
-* Event Programming
-
+  
+## Head First OOA&D
+## Head First Design Patterns 
 ## udacity Software Development
 * https://learn.udacity.com/courses/ud805
 * https://omscs.gatech.edu/cs-6300-software-development-process
@@ -90,13 +90,13 @@
 * UML Component and Deployment Diagram
 * Summary
 
-### Section 6 Object Design (☐☐☐☐ 0:41:05.83)
+### Section 6 Object Design (☑☑☑☑ 0:41:05.83)
 * Object Design
 * Design Patterns
 * UML Class and Communication Diagram
 * Summary
 
-### Section 7 Testing
+### Section 7 Testing (☑☑☑☑ 0:45:52.13)
 * Testing
 * Exception Handling
 * Unit Testing
@@ -104,7 +104,7 @@
 * Dependency Injection
 * Summary
 
-### Section 8 Build and Release Management section
+### Section 8 Build and Release Management section (☑☑☑☑ 0:52:12.99)
 * Build Management
 * Release Management
 * Summary
@@ -114,11 +114,27 @@
 * Final Assessment
 * Exit Survey
 
-./S1 Project Organization and Management (7) file(s): 1:02:23.043000
-./S2 Software Configuration Management (5) file(s): 0:42:19.864000
-./S3 Object Oriented Programming (4) file(s): 0:48:47.404000
-./S4 Requirements Analysis (5) file(s): 0:39:31.309000
-./S5 System Design (5) file(s): 0:43:45.474000
-./S6 Object Design (4) file(s): 0:41:05.836000
-./S7 Testing (5) file(s): 0:45:52.131000
-./S8 Build and Release Management (4) file(s): 0:52:12.994000
+## SOLID and Design Patterns
+* Sources
+  * https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc
+  * https://refactoring.guru/design-patterns/java
+  * https://sourcemaking.com/design_patterns
+
+
+### UML
+### SOLID
+* [Geekific](https://www.youtube.com/watch?v=HoA6aZPR5K0)
+### A - Creational Patterns
+* [x] Singleton --> multithreading
+* [x] Factory Methods
+* [x] Abstract Factory 
+* [ ] Builder
+### B - Structual Patterns
+* [ ] Flyweight
+### C - Behavioral Patterns
+* [x] Observer
+* [ ] Strategy
+* [ ] Visitor
+* [ ] State
+* [ ] Tempalate
+* [ ] Iterator 
