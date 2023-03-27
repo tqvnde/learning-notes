@@ -1,17 +1,23 @@
 # Java Programming
 
 ## videos
-* [udemy] Java Foundations
-* [Hoclzer Java](https://globalsoftwaresupport.teachable.com/courses): First course, Java A-J, SOLID and Design Patterns, Multithreading
+* udemy: Professional Java
+* udemy: Java Insel
 * [youtube Bro Code](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1)
 * [youtube Coding with John](https://youtu.be/bCPClyGsVhc): Generics
+
+## Talks
+* Venkat
+* Robert Martin
+	* [Functional Programing: What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+
 
 ## books
 * Head First Java --> Step by Step
 * Effective java
 * Cay Hostmann Big Java & OO Design 
-* Java 24 Hours Trainer
 * The Java Tutorial, A short course on the Basics https://docs.oracle.com/javase/tutorial/
+* Java 24 Hours Trainer
 
 ## tutorials
 * Java Complete References (pdf)
@@ -111,8 +117,6 @@
 
 * [x] Event Programming
 * [ ] Simple GUI
-
-
 
 
 * [ ] XML
