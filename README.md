@@ -1,10 +1,25 @@
-# Learning Notes
+# To Learn
 ☑ Done - ☐ Not done
-## I Engineering
+
+## 1 Mathematics and Phyiscs
+* Linear Algebra
+* Probability and Statistics
+* Vector Calculus
+* Differential Equations (ODEs and PDEs)
+* Optimization
+* Matlab
+### Mathematics
+
+## 2 Engineering
+* Engineering Mechanics
+* Signals and Systems
+* Control Systems
+* Communication Systems
+
+## 3 Computing
+
+## 4 Robotics AI
 ### I-1 Foundation
-  * Physics I, Physics II, Physics III
-  * Linear Algebra, Probability and Statistics
-  * Matlab
 ## II Computing
 ## II-1: Intro CS/Programming
   * Java, Python, C
@@ -26,5 +41,3 @@
 
 
 
-## 09 - Tools: Docker, CMake, virtual environment
-  * [matlab/octave online ](https://cocalc.com/doc/octave.html) 

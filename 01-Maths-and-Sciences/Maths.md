@@ -1,4 +1,9 @@
-# Applied Mathematics: Linear Algebra & Dynamical Systems
+# Mathematics
+* Linear Algebra
+* Probability and Statistics
+* Vector Calculus
+* Differential Equations
+
 
 
 ## [Beginning Scientific Computing](http://faculty.washington.edu/kutz/am301/am301.html)
